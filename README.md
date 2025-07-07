@@ -9,7 +9,7 @@ This tool analyzes your password and checks if it:
 - Includes numbers
 - Contains special characters (like @, #, $, etc.)
 
-Based on these checks, it tells you whether your password is **Weak**, **Moderate**, or **Strong**, and also gives suggestions to make it stronger.
+ Based on these checks, it tells you whether your password is **Weak**, **Moderate**, or **Strong**, and also gives suggestions to make it stronger.
 
 3. How to run
 1 Open the file `password_checker.py`
